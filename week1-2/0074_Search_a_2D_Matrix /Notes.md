@@ -12,7 +12,7 @@
    > O(log(m * n)) 시간 복잡도로 솔루션을 작성해야 합니다.
    >
 
-   ![2023082960506.png](assets/스크린샷 2023-08-29 오전 6.05.06.png)
+   <img width="768" alt="스크린샷 2023-08-29 오전 6 05 06" src="https://github.com/genugx-x/leetcode/assets/54730922/e7f1a026-c22c-403c-b005-1ecc80bd17ef">
 2. 문제 분석
 
    - 2차원 배열에서 target 값을 찾아 true를 반환하고, 없다면 false를 반환하는 문제다.
