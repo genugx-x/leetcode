@@ -1,8 +1,6 @@
-import java.io.File;
-
 public class BestTimeToBuyAndSellStockTest {
 
-    static BestTimeToBuyAndSellStock solution = new BestTimeToBuyAndSellStock();
+    static BestTimeToBuyAndSellStock2 solution = new BestTimeToBuyAndSellStock2();
 
     public static void main(String[] args) {
         example1();
